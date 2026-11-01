@@ -38,6 +38,12 @@ Pass provider directory names to rebuild a subset, for example
 Commit source, tests, packages, and registry changes together. Other providers
 remain package-only until their source is added to this layout.
 
+`extensions/utilities.sflx` is a Python runtime bundle adapted from
+[moto-costiera/PY-Audio](https://github.com/moto-costiera/PY-Audio) at commit
+`0ca978fb250793150370f0b79d4bf41bdbc79d18`. It is package-only here; its
+Apache-2.0 license and notice are included in the archive and
+`third_party/PY-Audio/`.
+
 Signed-session providers omit `callbackUrl` so the host application supplies
 its own session-grant callback. This lets Mornye and older host versions
 return to the application that started verification. Package-only fixes keep

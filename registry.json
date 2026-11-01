@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-01T00:00:00Z",
+  "updated_at": "2026-11-01T14:43:00Z",
   "extensions": [
     {
       "id": "spotify-web",
@@ -242,6 +242,28 @@
       "downloads": 0,
       "updated_at": "2026-11-01T00:00:00Z",
       "min_app_version": "4.9.5"
+    },
+    {
+      "id": "utilities",
+      "name": "utilities",
+      "display_name": "Mornye Utilities",
+      "version": "1.0.0",
+      "description": "Python runtime utilities for Spotify/Tidal metadata, browser solving, and signed-session support.",
+      "download_url": "https://raw.githubusercontent.com/ConZ99/Mornye-Extension/main/extensions/utilities.sflx",
+      "sha256": "3d7a07c5cb7fab60aeea82c5fae36fca174543e063cc3357e89f26c785eb75b2",
+      "icon_url": "https://raw.githubusercontent.com/ConZ99/Mornye-Extension/main/icons/utilities.png",
+      "category": "utility",
+      "tags": [
+        "python",
+        "metadata",
+        "spotify",
+        "tidal",
+        "solver",
+        "signed-session"
+      ],
+      "downloads": 0,
+      "updated_at": "2026-11-01T14:43:00Z"
     }
+
   ]
 }

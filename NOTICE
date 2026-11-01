@@ -5,3 +5,7 @@ This product includes software developed by zarzet.
 
 SPDX-License-Identifier: LGPL-3.0-only
 See LICENSE and COPYING for the complete terms.
+
+The `extensions/utilities.sflx` archive includes software from moto-costiera/PY-Audio,
+Copyright 2026 moto-costiera, licensed under the Apache License, Version 2.0.
+Its LICENSE and NOTICE are included in the archive and in `third_party/PY-Audio/`.
